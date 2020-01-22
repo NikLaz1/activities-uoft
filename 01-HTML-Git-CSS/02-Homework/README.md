@@ -19,17 +19,17 @@ SO THAT our own site is optimized for search engines
 ## Acceptance Criteria
 
 ```
-GIVEN a webpage meets accessibility standards
+1) GIVEN a webpage meets accessibility standards (SEO Optimization 10 rules site*)
 WHEN I view the source code
-THEN I find semantic HTML elements
+2) THEN I find semantic HTML elements (Update Page to give meaning to each element that needs it (ie h1 class ="logo"))
 WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+3) THEN I find that the elements follow a logical structure independent of styling and positioning (Making sure Html is structured and descriptive)
 WHEN I view the image elements
-THEN I find accessible alt attributes
+4) THEN I find accessible alt attributes (Going through all img's and addin alt attributes)
 WHEN I view the heading attributes
-THEN they fall in sequential order
+5) THEN they fall in sequential order 
 WHEN I view the title element
-THEN I find a concise, descriptive title
+6) THEN I find a concise, descriptive title ❤️️
 ```
 
 ## Review
