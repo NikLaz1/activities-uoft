@@ -36,7 +36,7 @@ signUpButton.addEventListener("click", function(event) {
     displayMessage("error", "Password cannot be blank");
   } else {
     displayMessage("success", "Registered successfully");
-
+d
     // set new submission
     console.log(user);
     localStorage.setItem("user", user);
